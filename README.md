@@ -1,2 +1,2 @@
 # Deep-Learning
-This contains few deep learning projects in CNN,ANN,RNN and LSTM
+This contains few deep learning projects in CNN,ANN,RNN and LSTM using Keras with Tensor flow as backend
